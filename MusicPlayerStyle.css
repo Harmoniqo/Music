@@ -165,7 +165,7 @@ aside{
 #music-player-logo img{
 	height: 3.3rem;
 	width: 3.3rem;
-	border-radius: 50%;
+	border-radius: 0%;
 	display: inline;
 }
 #music-player-name{
