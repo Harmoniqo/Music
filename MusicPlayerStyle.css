@@ -161,11 +161,12 @@ aside{
 }
 #music-player-logo{
 	display: inline;
+        border-radius: 0px;
 }
 #music-player-logo img{
 	height: 3.3rem;
 	width: 3.3rem;
-	border-radius: 0%;
+	border-radius: 0px;
 	display: inline;
 }
 #music-player-name{
